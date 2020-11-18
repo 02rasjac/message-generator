@@ -9,3 +9,7 @@ You can either run it in a ES6-compatible browser using it's build-in console. O
 ```
 node generate_message.js
 ```
+
+## Contact
+**Name** - Rasmus Jacklin
+**Email** - rasmusjacklin2002@gmail.com
