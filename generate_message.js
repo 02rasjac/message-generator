@@ -1,7 +1,7 @@
 const parts = [
-  ["I", "You", "We", "He", "She", "Them"],
-  ["can", "will", "might", "should"],
-  ["die", "be happy", "survive", "help someone"],
+  ["I", "You", "We", "He", "She", "They"],
+  ["can", "will", "might", "should", "won't"],
+  ["die", "be happy", "survive", "help someone", "be sad", "be regretful"],
 ];
 
 /**
@@ -21,7 +21,7 @@ const generateMessage = () => {
   let part2 = getPart(1, parts);
   let part3 = getPart(2, parts);
 
-  return `${part1} ${part2} ${part3}`;
+  return `${part1} ${part2} ${part3} today.`;
 };
 
 console.log(generateMessage());
