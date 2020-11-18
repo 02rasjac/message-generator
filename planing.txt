@@ -4,3 +4,10 @@
 [Can, Will, Might, Should]
 
 [Die, Be Happy, Survie, Help someone]
+
+Store as arraies in an object:
+{
+    Pronoune: [],
+    Verb: [],
+    subject: [],
+}
