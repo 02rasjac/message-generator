@@ -1,0 +1,6 @@
+3 sources:
+[I, You, We, He, She, Them]
+
+[Can, Will, Might, Should]
+
+[Die, Be Happy, Survie, Help someone]
